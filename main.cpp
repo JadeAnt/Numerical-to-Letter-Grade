@@ -43,7 +43,5 @@ int main(){
 	}
 	
 	cout << "Program ending now. " << endl;// lets user know that program is over
-
-	system("pause");
 	return 0;
 }
